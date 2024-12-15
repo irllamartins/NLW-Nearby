@@ -1,0 +1,3 @@
+installar node
+intalar o expo
+usar set NODE_OPTIONS=--max-old-space-size=6144
